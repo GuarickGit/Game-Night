@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "Final Fantasy VII Rebirth",
+    "genre": "RPG",
+    "rating": 8.9,
+    "year": 2024,
+    "platform": "PS5",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob9k6.webp",
+    "description": "Cloud et son équipe poursuivent Sephiroth à travers un monde ouvert riche en secrets."
+  },
+  {
+    "id": 2,
+    "title": "Clair Obscur: Expedition 33",
+    "genre": "RPG",
+    "rating": 9.0,
+    "year": 2025,
+    "platform": "PC",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9gam.webp",
+    "description": "Une expédition part chaque année affronter la Peintre avant qu'elle n'efface une nouvelle tranche d'âge."
+  },
+  {
+    "id": 3,
+    "title": "Pokémon Pokopia",
+    "genre": "Aventure",
+    "rating": 7.8,
+    "year": 2026,
+    "platform": "Switch 2",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobbur.webp",
+    "description": "Un village de Pokémon à reconstruire et à explorer dans une aventure paisible et créative."
+  },
+  {
+    "id": 4,
+    "title": "Ratchet & Clank: Rift Apart",
+    "genre": "Aventure",
+    "rating": 8.6,
+    "year": 2021,
+    "platform": "PS5",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2str.webp",
+    "description": "Ratchet et Clank sautent entre des dimensions parallèles pour arrêter l'empereur Nefarious."
+  },
+  {
+    "id": 5,
+    "title": "For the King II",
+    "genre": "RPG",
+    "rating": 4.4,
+    "year": 2023,
+    "platform": "PC",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7e1r.webp",
+    "description": "Un groupe d'aventuriers combat au tour par tour pour repousser les ténèbres menaçant le royaume."
+  },
+  {
+    "id": 6,
+    "title": "Resident Evil Requiem",
+    "genre": "Horreur",
+    "rating": 8.5,
+    "year": 2026,
+    "platform": "PS5",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobmj0.webp",
+    "description": "Une nouvelle enquête plonge dans l'horreur pure au cœur de Raccoon City."
+  },
+  {
+    "id": 7,
+    "title": "God of War Ragnarök",
+    "genre": "Action",
+    "rating": 9.4,
+    "year": 2022,
+    "platform": "PS5",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coba3d.webp",
+    "description": "Kratos et Atreus affrontent le destin nordique alors que Ragnarök approche."
+  },
+  {
+    "id": 8,
+    "title": "Sea of Stars",
+    "genre": "RPG",
+    "rating": 8.7,
+    "year": 2023,
+    "platform": "PC",
+    "favorite": false,
+    "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co215b.webp",
+    "description": "Deux enfants choisis par les étoiles combattent une entité corrompant le temps."
+  }
+]
