@@ -52,7 +52,11 @@ function App() {
     await new Promise((resolve) => setTimeout(resolve, 2000));
 
     try {
-      const response = await fetch('/data/games.json');
+      // BASE_URL = '/Game-Night/' en prod (GitHub Pages), '/' en local
+      // nécessaire car le fetch en chemin absolu ('/data/...') pointe à la racine du domaine, pas du sous-dossier
+      const response = await fetch(
+        `${import.meta.env.BASE_URL}data/games.json`,
+      );
       if (!response.ok) {
         throw new Error('Une erreur est survenue pendant le chargement.');
       }
